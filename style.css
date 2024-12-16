@@ -42,17 +42,23 @@
     background-color:#F2EAFD;
     color:#7C19EE;
     font-size:10px;
+    font-weight: 600;
   }
   h2{
     padding-top: 16px;
     padding-bottom: 6px;
     font-size:18px;
     font-weight:600px;
+    color:#20293A;
   }
   p{
     padding-bottom: 20px;
     font-size:14px;
+    font-weight:300;
+    color:#394150;
   }
   span{
     font-size:12px;
+    font-weight: 400;
+    color:#20293A;
   }
